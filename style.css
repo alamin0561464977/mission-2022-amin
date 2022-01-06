@@ -131,3 +131,20 @@ body{
     width: 70%;
     margin-left: 30%;
 }
+
+
+.img{
+    background-image: url("paper.gif");
+}
+.img1{
+    width: 1;
+}
+.work{
+    background-color: silver;
+}
+.m{
+    text-align-last: center;
+}
+.h{
+    text-align-last: center;
+}
