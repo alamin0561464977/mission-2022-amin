@@ -114,3 +114,20 @@ body{
 .Develop{
     font-size: 30px;
 }
+
+
+.section4{
+    display: flex;
+    padding: 1% 8%;
+}
+
+.div4-1{
+    width: 110%;
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+.div4-2 img{
+    width: 70%;
+    margin-left: 30%;
+}
