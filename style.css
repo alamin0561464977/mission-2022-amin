@@ -1,13 +1,15 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.stay{
+    text-shadow: 1px 1px 5px rgb(68, 2, 38);
+}
 .section1{
     display: flex;
-    padding: 5%;
-    padding-top: 6%;
+    padding: 1% 8%;
 }
 .div1{
-    width: 50%;
+    width: 60%;
     margin-top: 4%;
     margin-left: 1%;
 }
@@ -23,10 +25,69 @@ body{
 .ExploreNow{
     padding: 10px 40px ;
     background-image: linear-gradient(rgb(0, 255, 136), rgb(0, 89, 255));
+    text-decoration: none;
+    border-radius: 5px;
 }
 .div3 img{
     width: 80%;
     height: 85%;
-    padding-left: 7%;
 
+}
+
+
+
+
+.section2{
+    
+}
+
+.div1-1{
+    font-size: 30px;
+    text-align: center;
+}
+.my{
+    color: orangered;
+}
+.my1{
+    color: rgb(253, 188, 9);
+}
+
+.div1-2{
+    width: 92%;
+    display: flex;
+    padding: 3%;
+}
+
+.div1-3{
+    background: rgb(109, 143, 130);
+    padding: 2%;
+    margin: 2%;
+    border-radius: 25px;
+    box-shadow: 10px 10px 50px rgb(46, 11, 30);
+}
+.div1-3 img{
+    width: 70%;
+}
+
+.div1-4{
+    background: rgb(117, 150, 143);
+    padding: 2%;
+    margin: 2%;
+    border-radius: 25px;
+    box-shadow: 10px 10px 50px rgb(46, 11, 30);
+}
+.div1-4 img{
+    width: 70%;
+}
+
+.div1-5{
+    background: rgb(161, 194, 184);
+    padding: 2%;
+    margin: 2%;
+    border-radius: 25px;
+    box-shadow: red 70%;
+    box-shadow: 10px 10px 50px rgb(46, 11, 30);
+}
+.div1-5 img{
+    width: 70%;
 }
